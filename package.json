@@ -21,9 +21,10 @@
   "homepage": "https://theworker02.github.io/boltbolt/",
   "keywords": [
     "bolt",
-    "bolt",
     "encode",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
